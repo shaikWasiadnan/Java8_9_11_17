@@ -1,4 +1,4 @@
-package com.adnan.java8_9_11.Java_21.PatternMatching;
+package com.adnan.java8_9_11.Java_21.PatternMatching1;
 
 public class PatternMatchingForSwitch {
     public static void main(String[] args) {
